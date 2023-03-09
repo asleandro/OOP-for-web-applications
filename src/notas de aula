@@ -1,0 +1,30 @@
+REST > GET, POST, PUT, LIST
+
+Request > Requisição feita pelo usuário
+Response > Resposta dada pelo servidor
+Session > conexão ativa com o servidor. As informações ficam armazenadas em um socket no servidor
+Socket é um meio de conexão
+
+
+REVER PROTOCOLOS DE CONEXÃO
+http, tcp/ip, etc
+
+POST > informação enviada em background
+	ex N1=xpto
+
+no HTTP puro as informações do post podem ser interceptadas pelo wireshark	
+HTTPS é o http em cima de uma camada do TLS
+
+SERVLET 
+
+estrutura do arquivo war
+	WEB-INF
+			web.html
+			classes
+			lib
+	JSP
+	HTML
+	ETC.
+
+arquivo war é colocado no tomcat e o tomcad expande as info
+
